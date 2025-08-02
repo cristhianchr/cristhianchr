@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Cristhian!
+## 👋 Hi, I'm Cristhian!
 
 📈 Data Scientist in training.</br>
 ⚙️⚡️ Mechanical-Electrical engineering graduate from Universidad de Piura, Peru.</br>
