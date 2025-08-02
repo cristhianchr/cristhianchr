@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Cristhian!
 
-I’m a Mechanical-Electrical Engineering graduate from Universidad de Piura, Peru, on  a journey to become a Data Scientist with a focus on industrial applications. I explore how Signal Processing and Computer Vision can help solve industrial challenges, especially in diagnostics and predictive maintenance.
+I’m a Mechanical-Electrical Engineering graduate from Universidad de Piura, Peru, on  a journey to become a Data Scientist with a focus on industrial applications. I explore how Signal Processing and Computer Vision can help solve industrial challenges.
 
 ## 💻 Tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
