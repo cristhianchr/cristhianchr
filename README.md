@@ -2,7 +2,7 @@
 
 I’m a Mechanical-Electrical Engineering graduate from Universidad de Piura, Peru, on  a journey to become a Data Scientist with a focus on industrial applications. I explore how Signal Processing and Computer Vision can help solve industrial challenges.
 
-My research interests lies in **Signal Processing** and **Computer Vision** with applications in Electrical and Electronics Engineering.
+My research interests lies in **Signal Processing** and **Computer Vision** with applications in **Electrical and Electronics Engineering**.
 
 ## 💻 Tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
