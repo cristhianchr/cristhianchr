@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Cristhian!
 
-I’m a Mechanical-Electrical Engineering graduate from Universidad de Piura, Peru, on  a journey to become a Data Scientist with a focus on solving industrial challenges. My research interests lies in **Signal Processing** and **Computer Vision** with applications in **Electrical and Electronics Engineering**.
+I’m a Mechanical-Electrical Engineering graduate from Universidad de Piura, Peru, on  a journey to become a Data Scientist with a focus on solving industrial challenges. My research interests lies in **Signal Processing**, **Time Series Forecasting**, and **Computer Vision** with applications in **Electrical and Electronics Engineering**.
 
 ## 💻 Tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
